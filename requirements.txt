@@ -1,0 +1,42 @@
+# Core PyTorch and ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data manipulation and analysis
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Image processing
+Pillow>=8.3.0
+opencv-python>=4.5.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Progress bars and utilities
+tqdm>=4.62.0
+
+# File operations and system utilities
+pathlib2>=2.3.0
+
+# Optional: For better performance and additional features
+# CUDA support (if using GPU)
+# torch-audio  # Uncomment if needed
+
+# Development and debugging
+ipython>=7.25.0
+jupyter>=1.0.0
+
+# For potential model serving (optional)
+flask>=2.0.0
+gunicorn>=20.1.0
+
+# Data format support
+h5py>=3.1.0
+
+# Configuration management (optional)
+pyyaml>=5.4.0
+configparser>=5.0.0

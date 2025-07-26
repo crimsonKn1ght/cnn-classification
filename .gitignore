@@ -1,0 +1,5 @@
+dockerfile
+./models/__pycache__/
+./utils/__pycache__/
+__pycache__/
+best_model.pth
